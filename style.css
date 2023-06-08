@@ -1,0 +1,16 @@
+button {
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 25pt;
+    font-family: 'Courier New';
+}
+
+button:hover {
+    background-color: yellow;
+
+}
+
+body {
+    background-color: white;
+    text-align: center;
+}
